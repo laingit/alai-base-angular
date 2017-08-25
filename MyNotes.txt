@@ -1,0 +1,10 @@
+- Repository create in github
+- git clone https://github.com/laingit/alai-base-angular.git
+- ng set --global packageManager=yarn
+- ng new alai-base-angular --directory ./ --skip-install
+- yarn install
+- ng serve -o (it is working)
+- git add .
+- git commit -m "First commit"
+- git push
+- created "MyNote.txt" (this file)
