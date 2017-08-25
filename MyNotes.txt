@@ -8,3 +8,5 @@
 - git commit -m "First commit"
 - git push
 - created "MyNote.txt" (this file)
+
+http://htmlhint.com/ (.htmlhintrc)
